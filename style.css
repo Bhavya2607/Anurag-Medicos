@@ -1268,7 +1268,7 @@ a.btn-second{
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 120px;
+	margin-top: 130px;
 	margin-right: 5px;
 	font-family: Helvetica;
 	padding: 10px;
@@ -1276,18 +1276,18 @@ a.btn-second{
 	#homeremdey{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 280px;
 	height: 200px;
 	left: 50px;
 	float: left;
-	margin-top: 430px;
+	margin-top: 440px;
 }
 #covidtext2{
 	position: absolute;
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 650px;
+	margin-top: 660px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
@@ -1299,14 +1299,14 @@ a.btn-second{
 	height: 200px;
 	left: 00px;
 	float: left;
-	margin-top: 00px;
+	margin-top: 10px;
 }
 #homeremedy3{
 	position: absolute;
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 1350px;
+	margin-top: 1460px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
@@ -1316,19 +1316,19 @@ a.btn-second{
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 1450px;
+	margin-top: 1600px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
 }
 .footer-basic25 {
-	margin-top: 200px;
+	margin-top: 350px;
 }
 .footer-basic252 {
-	margin-top: 350px;
+	margin-top: 450px;
 }
 .footer-basic253 {
-	margin-top: 350px;
+	margin-top: 550px;
 }
 }
 
