@@ -1252,6 +1252,16 @@ a.btn-second{
 	padding-bottom: 10px;
 }
 
+#homeremdey5{
+	position: absolute;
+	width: 100%;
+	max-width: 500px;
+	height: 300px;
+	left: 100px;
+	float: left;
+	margin-top: 300px;
+}
+
 @media only screen and ( max-width: 517px ) {
 	#covidheading{
 	position: absolute;
@@ -1320,6 +1330,15 @@ a.btn-second{
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
+}
+	#homeremdey5{
+	position: absolute;
+	width: 100%;
+	max-width: 280px;
+	height: 190px;
+	left: 50px;
+	float: left;
+	margin-top: 455px;
 }
 .footer-basic25 {
 	margin-top: 380px;
