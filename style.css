@@ -1316,7 +1316,7 @@ a.btn-second{
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 1510px;
+	margin-top: 1530px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
@@ -1335,10 +1335,10 @@ a.btn-second{
 	position: absolute;
 	width: 100%;
 	max-width: 280px;
-	height: 190px;
+	height: 180px;
 	left: 50px;
 	float: left;
-	margin-top: 455px;
+	margin-top: 465px;
 }
 .footer-basic25 {
 	margin-top: 380px;
@@ -1346,8 +1346,10 @@ a.btn-second{
 .footer-basic252 {
 	margin-top: 450px;
 }
-.footer-basic253 {
-	margin-top: 1000px;
+.footer-basic253 .social253 {
+  text-align:center;
+  padding-bottom:25px;
+   margin-top: 1500px;
 }
 }
 
