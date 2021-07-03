@@ -1437,6 +1437,7 @@ a.btn-second{
   padding:40px 0;
   background-color:#ffffff;
   color:#4b4c4d;
+  margin-top: 1500px;
 }
 
 .footer-basic25 ul {
@@ -1466,7 +1467,6 @@ a.btn-second{
 .footer-basic25 .social25 {
   text-align:center;
   padding-bottom:25px;
-   margin-top: 1500px;
 }
 
 .footer-basic25 .social25 > a {
