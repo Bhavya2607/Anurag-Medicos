@@ -1842,9 +1842,9 @@ a.btn-second{
 	#blogimage4{
 	position: absolute;
 	width: 100%;
-	max-width: 350px;
+	max-width: 300px;
 	height: 200px;
-	left: 00px;
+	left: 40px;
 	float: left;
 	margin-top: 550px;
 }
@@ -1872,13 +1872,13 @@ a.btn-second{
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 1770px;
+	margin-top: 1790px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
 }
 
 .footer-basic254 {
-  margin-top: 2000px;
+  margin-top: 2150px;
 }
 }
