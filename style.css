@@ -1842,18 +1842,18 @@ a.btn-second{
 	#blogimage4{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 350px;
 	height: 200px;
-	left: 50px;
+	left: 00px;
 	float: left;
-	margin-top: 480px;
+	margin-top: 550px;
 }
 #blogtext4-1{
 	position: absolute;
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 700px;
+	margin-top: 770px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
@@ -1872,13 +1872,13 @@ a.btn-second{
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 1670px;
+	margin-top: 1770px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
 }
 
 .footer-basic254 {
-  margin-top: 1500px;
+  margin-top: 2000px;
 }
 }
