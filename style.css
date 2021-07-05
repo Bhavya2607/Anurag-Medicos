@@ -2038,14 +2038,14 @@ a.btn-second{
 	height: 200px;
 	left: 40px;
 	float: left;
-	margin-top: 550px;
+	margin-top: 500px;
 }
 #blogtext5-1{
 	position: absolute;
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 770px;
+	margin-top: 720px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
@@ -2064,13 +2064,13 @@ a.btn-second{
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 1790px;
+	margin-top: 1740px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
 }
 
 .footer-basic255 {
-  margin-top: 2250px;
+  margin-top: 1250px;
 }
 }
