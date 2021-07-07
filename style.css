@@ -2420,9 +2420,9 @@ a.btn-second{
 	width: 100%;
 	max-width: 330px;
 	height: 200px;
-	left: 60px;
+	left: 40px;
 	float: left;
-	margin-top: 630px;
+	margin-top: 600px;
 }
 #blogtext7-1{
 	position: absolute;
@@ -2448,13 +2448,13 @@ a.btn-second{
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 2000px;
+	margin-top: 2100px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
 }
 
 .footer-basic257 {
-  margin-top: 1200px;
+  margin-top: 1350px;
 }
 }
