@@ -3368,6 +3368,11 @@ a.btn-second{
   font-size:13px;
   color:#aaa;
   margin-bottom:0;
+}.ad12{
+	position: absolute;
+	left: 900px;
+	float: left;
+	margin-top: 350px;
 }
 
 @media only screen and ( max-width: 517px ) {
@@ -3424,13 +3429,23 @@ a.btn-second{
 	left: 40px;
 	float: left;
 	font-size: 20px;
-	margin-top: 1640px;
+	margin-top: 1880px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
 }
 
 .footer-basic2512 {
-  margin-top: 530px;
+  margin-top: 1230px;
+}
+	
+	.ad12{
+	position: absolute;
+	width: 100%;
+	max-width: 330px;
+	height: 200px;
+	left: 40px;
+	float: left;
+	margin-top: 1640px;
 }
 }
