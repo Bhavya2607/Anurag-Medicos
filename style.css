@@ -3579,6 +3579,13 @@ a.btn-second{
   margin-bottom:0;
 }
 
+.ad13{
+	position: absolute;
+	left: 900px;
+	float: left;
+	margin-top: 350px;
+}
+
 @media only screen and ( max-width: 517px ) {
 	#blogheading13{
 	position: absolute;
@@ -3641,5 +3648,15 @@ a.btn-second{
 
 .footer-basic2513 {
   margin-top: 2030px;
+}
+	.ad13{
+	position: absolute;
+	width: 100%;
+	max-width: 330px;
+	height: 200px;
+	left: 40px;
+	float: left;
+	margin-top: 1640px;
+
 }
 }
