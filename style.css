@@ -3510,7 +3510,7 @@ a.btn-second{
 	left: 100px;
 	float: left;
 	font-size: 20px;
-	margin-top: 2500px;
+	margin-top: 2700px;
 	margin-right: 20px;
 	font-family: Helvetica;
 	padding-bottom: 10px;
@@ -3520,7 +3520,7 @@ a.btn-second{
   padding:40px 0;
   background-color:#ffffff;
   color:#4b4c4d;
-  margin-top: 1500px;
+  margin-top: 1700px;
 }
 
 .footer-basic2513 ul {
@@ -3648,15 +3648,5 @@ a.btn-second{
 
 .footer-basic2513 {
   margin-top: 2230px;
-}
-	.ad13{
-	position: absolute;
-	width: 100%;
-	max-width: 330px;
-	height: 200px;
-	left: 40px;
-	float: left;
-	margin-top: 1600px;
-
 }
 }
