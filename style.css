@@ -4177,77 +4177,6 @@ a.btn-second{
   margin-bottom:0;
 }
 
-
-
-@media only screen and ( max-width: 517px ) {
-	#blogheading16{
-	position: absolute;
-	left: 40px;
-	float: left;
-	font-size: 25px;
-	margin-top: 50px;
-	margin-right: 5px;
-	font-family: Helvetica;
-	padding-bottom: 10px;
-}
-	#blogtext16{
-	position: absolute;
-	left: 30px;
-	float: left;
-	font-size: 23px;
-	margin-top: 120px;
-	margin-right: 5px;
-	font-family: Helvetica;
-	padding: 10px;
-}
-	#blogimage16{
-	position: absolute;
-	width: 100%;
-	max-width: 330px;
-	height: 200px;
-	left: 60px;
-	float: left;
-	margin-top: 320px;
-}
-#blogtext16-1{
-	position: absolute;
-	left: 40px;
-	float: left;
-	font-size: 20px;
-	margin-top: 550px;
-	margin-right: 20px;
-	font-family: Helvetica;
-	padding-bottom: 10px;
-}
-#blogimage16-1{
-	position: absolute;
-	width: 100%;
-	max-width: 370px;
-	height: 200px;
-	left: 00px;
-	float: left;
-	margin-top: 20px;
-}
-#blogtext16-2{
-	position: absolute;
-	left: 40px;
-	float: left;
-	font-size: 20px;
-	margin-top: 2290px;
-	margin-right: 20px;
-	font-family: Helvetica;
-	padding-bottom: 10px;
-}
-
-.footer-basic2516 {
-  margin-top: 1500px;
-}
-
-.ad16{
-	margin-right: -20px;
-}
-}
-
 #blogheading17{
 	position: absolute;
 	left: 100px;
@@ -4374,6 +4303,73 @@ a.btn-second{
   color:#aaa;
   margin-bottom:0;
 }
+
+@media only screen and ( max-width: 517px ) {
+	#blogheading16{
+	position: absolute;
+	left: 40px;
+	float: left;
+	font-size: 25px;
+	margin-top: 50px;
+	margin-right: 5px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+}
+	#blogtext16{
+	position: absolute;
+	left: 30px;
+	float: left;
+	font-size: 23px;
+	margin-top: 120px;
+	margin-right: 5px;
+	font-family: Helvetica;
+	padding: 10px;
+}
+	#blogimage16{
+	position: absolute;
+	width: 100%;
+	max-width: 330px;
+	height: 200px;
+	left: 60px;
+	float: left;
+	margin-top: 320px;
+}
+#blogtext16-1{
+	position: absolute;
+	left: 40px;
+	float: left;
+	font-size: 20px;
+	margin-top: 550px;
+	margin-right: 20px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+}
+#blogimage16-1{
+	position: absolute;
+	width: 100%;
+	max-width: 370px;
+	height: 200px;
+	left: 00px;
+	float: left;
+	margin-top: 20px;
+}
+#blogtext16-2{
+	position: absolute;
+	left: 40px;
+	float: left;
+	font-size: 20px;
+	margin-top: 2290px;
+	margin-right: 20px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+}
+
+.footer-basic2516 {
+  margin-top: 1500px;
+}
+}
+
+
 
 @media only screen and ( max-width: 517px ) {
 	#blogheading17{
