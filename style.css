@@ -4361,7 +4361,7 @@ a.btn-second{
 #blogimage16-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 200px;
 	left: 00px;
 	float: left;
@@ -4619,7 +4619,7 @@ a.btn-second{
 #blogimage18-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 200px;
 	left: 00px;
 	float: left;
@@ -6183,7 +6183,7 @@ a.btn-second{
 #blogimage26-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -6378,7 +6378,7 @@ a.btn-second{
 #blogimage27-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -6578,7 +6578,7 @@ a.btn-second{
 #blogimage28-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -6775,7 +6775,7 @@ a.btn-second{
 #blogimage29-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -6970,7 +6970,7 @@ a.btn-second{
 #blogimage30-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -7166,7 +7166,7 @@ a.btn-second{
 #blogimage31-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -7361,7 +7361,7 @@ a.btn-second{
 #blogimage32-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -7557,7 +7557,7 @@ a.btn-second{
 #blogimage33-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -7751,7 +7751,7 @@ a.btn-second{
 #blogimage34-1{
 	position: absolute;
 	width: 100%;
-	max-width: 370px;
+	max-width: 330px;
 	height: 300px;
 	left: 00px;
 	float: left;
@@ -7769,6 +7769,200 @@ a.btn-second{
 }
 
 .footer-basic2534 {
+  margin-top: 2050px;
+}
+}
+
+
+#blogheading35{
+	position: absolute;
+	left: 100px;
+	float: left;
+	font-size: 30px;
+	margin-top: 50px;
+	margin-right: 20px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+}
+
+#blogtext35{
+	position: absolute;
+	left: 100px;
+	float: left;
+	font-size: 23px;
+	margin-top: 120px;
+	margin-right: 20px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+	width: 700px;
+}
+
+#blogimage35{
+
+	width: 100%;
+	max-width: 500px;
+	height: 300px;
+
+}
+
+#blogtext35-1{
+	position: absolute;
+	left: 100px;
+	float: left;
+	font-size: 20px;
+	margin-top: 250px;
+	margin-right: 20px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+	width: 650px;
+}
+
+#blogimage35-1{
+	position: absolute;
+	width: 100%;
+	max-width: 500px;
+	height: 300px;
+	left: 00px;
+	float: left;
+	margin-top: 20px;
+}
+
+#blogtext35-2{
+	position: absolute;
+	left: 100px;
+	float: left;
+	font-size: 20px;
+	margin-top: 2650px;
+	margin-right: 20px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+}
+
+.footer-basic2535 {
+  padding:40px 0;
+  background-color:#ffffff;
+  color:#4b4c4d;
+  margin-top: 1300px;
+}
+
+.footer-basic2535 ul {
+  padding:0;
+  list-style:none;
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic2535 li {
+  padding:0 10px;
+  
+}
+
+.footer-basic2535 ul a {
+  color:inherit;
+  text-decoration:none;
+  opacity:0.8;
+}
+
+.footer-basic2535 ul a:hover {
+  opacity:1;
+}
+
+.footer-basic2535 .social2535 {
+  text-align:center;
+  padding-bottom:25px;
+   margin-top: 1500px;
+}
+
+.footer-basic2535 .social2535 > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #ccc;
+  margin:0 8px;
+  color:inherit;
+  opacity:0.75;
+}
+
+.footer-basic2535 .social2535 > a:hover {
+  opacity:0.9;
+}
+
+.footer-basic2535 .copyright2535 {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+  color:#aaa;
+  margin-bottom:0;
+}
+
+
+@media only screen and ( max-width: 517px ) {
+	#blogheading35{
+	position: absolute;
+	left: 40px;
+	float: left;
+	font-size: 25px;
+	margin-top: 50px;
+	margin-right: 5px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+}
+	#blogtext35{
+	position: absolute;
+	left: 30px;
+	float: left;
+	font-size: 23px;
+	margin-top: 120px;
+	margin-right: 5px;
+	font-family: Helvetica;
+	padding: 10px;
+	width: 400px;
+}
+	#blogimage35{
+	width: 100%;
+	max-width: 330px;
+	height: 200px;
+	margin-top: 80px;
+	
+}
+#blogtext35-1{
+	position: absolute;
+	left: 40px;
+	float: left;
+	font-size: 20px;
+	margin-top: 330px;
+	margin-right: 20px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+	width: 400px;
+}
+#blogimage35-1{
+	position: absolute;
+	width: 100%;
+	max-width: 330px;
+	height: 300px;
+	left: 00px;
+	float: left;
+	margin-top: 20px;
+}
+#blogtext35-2{
+	position: absolute;
+	left: 40px;
+	float: left;
+	font-size: 20px;
+	margin-top: 2850px;
+	margin-right: 20px;
+	font-family: Helvetica;
+	padding-bottom: 10px;
+}
+
+.footer-basic2535 {
   margin-top: 2050px;
 }
 }
